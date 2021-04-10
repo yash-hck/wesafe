@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">wesafe</string>
+    <string name="MAPBOX_ACCESS_TOKEN">pk.eyJ1IjoiZmFsY29ucHJvIiwiYSI6ImNrbjZmMDNqZjBkZGQycHFxcmNyYTI0dDMifQ.vkbJZ_doTJo_5c3ouQy6Wg</string>
+</resources>
